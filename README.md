@@ -10,9 +10,9 @@ O primeiro notebook que vou subir é o de análise do dataset order_payments. ht
 
 São um total de 8 datasets. Após analisar cada um deles vou criar um ou vários novos datasets para obter mais insigths e realizar previsões
 
+Não estou realizando o teste para participar do processo seletivo, só para case de estudo.
+
 Aqui uma cópia do readme do teste.
-
-
 
 # Teste prático (work-at-olist-data)
 
