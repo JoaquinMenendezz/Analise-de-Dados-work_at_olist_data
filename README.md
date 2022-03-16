@@ -4,9 +4,13 @@
 
 É o meu primeiro projeto de Análise/Ciência de dados. É um projeto de prática.
 
-Neste repositorio irei analisando os datasets e realizando o teste prático (work-at-olist-data). 
+Neste repositório irei analisando os datasets e realizando o teste prático (work-at-olist-data).
 
-Aqui uma copia do readme do teste.
+O primeiro notebook que vou subir é o de análise do dataset order_payments.
+
+São um total de 8 datasets. Após analisar cada um deles vou criar um ou vários novos datasets para obter mais insigths e realizar previsões
+
+Aqui uma cópia do readme do teste.
 
 
 
