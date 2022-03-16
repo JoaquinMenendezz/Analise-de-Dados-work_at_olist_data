@@ -6,7 +6,7 @@
 
 Neste repositório irei analisando os datasets e realizando o teste prático (work-at-olist-data).
 
-O primeiro notebook que vou subir é o de análise do dataset order_payments.
+O primeiro notebook que vou subir é o de análise do dataset order_payments. https://github.com/JoaquinMenendezz/Teste_pratico_work_at_olist/blob/main/Analisar_olist_order_payments.ipynb
 
 São um total de 8 datasets. Após analisar cada um deles vou criar um ou vários novos datasets para obter mais insigths e realizar previsões
 
