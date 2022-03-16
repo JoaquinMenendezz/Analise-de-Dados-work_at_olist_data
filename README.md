@@ -18,8 +18,6 @@ Aqui uma cópia do readme do teste.
 
 Esta é a página sobre o teste prático para os candidatos ao processo seletivo de cientistas, analistas e engenheiros de dados para o time de Business Science & Analytics do olist.
 
-## Conhecendo nosso time de dados:
-[BSA: um time de pessoas que vão além das ferramentas e números](https://medium.com/olist/bsa-um-time-de-pessoas-que-v%C3%A3o-al%C3%A9m-das-ferramentas-e-n%C3%BAmeros-76a073cadd67)
 
 ## Cenário
 
