@@ -15,11 +15,11 @@ Estamos o tempo todo gerando dados, dados e muito mais dados. Nosso cenário é 
 
 Considere que a figura abaixo seja a estrutura do nosso banco de dados de e-commerce e que cada tabela desse banco de dados esteja disponível como um dataset. [Aqui estão os datasets](/datasets). Perceba que os dados são amostrais e estão apresentados no modelo relacional, pois foram extraídos diretamente, sem qualquer tratamento,  do ambiente transacional.
 
-![Estrutura do Banco de Dados](images/schema.png)
+![Estrutura do Banco de Dados](https://github.com/olist/work-at-olist-data/blob/master/images/schema.png)
 
 Bom, e aqui você pode observar como um produto é exibido na plataforma de e-commerce.
 
-![Exemplo de produto exibido na plataforma](images/example.png)
+![Exemplo de produto exibido na plataforma](https://github.com/olist/work-at-olist-data/blob/master/images/example.png)
 
 ## Desafio
 
